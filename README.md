@@ -1,6 +1,6 @@
 # C++ Basics Exercises
 
-> # **Status:**  
+> ### **Status:**  
 > ✅ **Completed on 2025-05-09**
 
 This repository contains some of the exercises I completed while studying C++ basics
