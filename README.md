@@ -3,6 +3,6 @@
 This repository contains some of the exercises I completed while studying C++ basics
 from a textbook I found online.
 
-## 📘 Textbook
+##  Textbook
 
-[C++ Basics Textbook](books/Cplusplus_2011.pdf)
+[C++ Basics Textbook](Books/Cplusplus_2011.pdf)
