@@ -1,6 +1,6 @@
 # C++ Basics Exercises
 
-> ### **Status:**  
+> **Status:**  
 > ✅ **Completed on 2025-05-09**
 
 
