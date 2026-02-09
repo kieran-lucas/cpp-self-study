@@ -1,12 +1,11 @@
 # C++ Basics Exercises
 
-| Field  | Value |
-|------|------|
-| Status | ✅ Completed |
-| Date   | 2025-05-09 |
+## 📌 Status
+✅ Completed on 2025-05-09
 
 This repository contains some of the exercises I completed while studying C++ basics
 from a textbook I found online.
+
 
 ##  Textbook here ⬇️
 
