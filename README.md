@@ -1,7 +1,9 @@
 # C++ Basics Exercises
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Completed](https://img.shields.io/badge/date-2025--05--09-blue)
+| Field  | Value |
+|------|------|
+| Status | ✅ Completed |
+| Date   | 2025-05-09 |
 
 This repository contains some of the exercises I completed while studying C++ basics
 from a textbook I found online.
