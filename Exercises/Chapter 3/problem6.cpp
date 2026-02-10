@@ -3,8 +3,8 @@ using namespace std;
 int main() {
     int count = 0;
     float total = 0;
-    float mark = 1;
-    while (mark != 0) {
+    float mark = 0;
+    while (true) {
         cout << "Enter mark: ";
         cin >> mark;
         if (mark < 0) {

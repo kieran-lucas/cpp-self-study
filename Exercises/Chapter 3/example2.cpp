@@ -8,18 +8,14 @@ int main() {
 
     if (score >= 90) {
         grade = 'A';
-    }
-    else if (score >= 80) {
+    } else if (score >= 80) {
         grade = 'B';
-    }
-    else if (score >= 70) {
+    } else if (score >= 70) {
         grade = 'C';
-    }
-    else {
+    } else {
         grade = 'F';
     }
     cout << "grade = " << grade << endl;
-    return 0;
-
+    return 0; 
 
 }

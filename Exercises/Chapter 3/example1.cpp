@@ -7,8 +7,7 @@ int main() {
 
     if (score < 60) {
         cout << "Sorry. You've failed the course.\n";
-    }
-    else {
+    } else {
         cout << "congreatulations! You've passed the course.\n";
 
     }
